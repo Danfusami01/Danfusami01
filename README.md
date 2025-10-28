@@ -2,7 +2,7 @@
   ![gitartwork](gitartwork.svg)
   
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+ABUBAKAR+FUSAMI;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+ABUBAKAR+FUSAMI;Computer+Science+Student+Crypto+Trader;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 
  >I am a Student with a passion for solving problems and creating innovative solutions. I have a strong background in computer science and have experience working on a variety of projects, including web development, mobile app development, and open source. In my free time, I enjoy learning new technologies, reading, and spending time with my family. I am a hardworking and dedicated individual who is always striving to improve my skills and grow as a professional.
  
