@@ -1,15 +1,14 @@
-
-  ![gitartwork](gitartwork.svg)
+![gitartwork](gitartwork.svg)
   
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+ABUBAKAR+FUSAMI;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+ABUBAKAR+FUSAMI;Computer+Science+Student;From+Gombe+State+Nigeria;Dex trader+web3 dev+Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 
  >I am a Student with a passion for solving problems and creating innovative solutions. I have a strong background in computer science and have experience working on a variety of projects, including web development, mobile app development, and open source. In my free time, I enjoy learning new technologies, reading, and spending time with my family. I am a hardworking and dedicated individual who is always striving to improve my skills and grow as a professional.
  
 
  </p>
 <!-- <p align="center">
-<a href="https://github.com/Danfusami01">
+<a href="https://github.com/SALEEMCRYPTO01">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Software+Engineer+%7C+Devops+Engineer+%7C+Blockchain" alt="Typing SVG" />
 </a>
 <br/>
@@ -17,18 +16,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=AdamsGeeky&theme=neon-palenight&hide_border=true&card_width=705">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Danfusami01&theme=neon-palenight&hide_border=true&card_width=705">
      </td>
    </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamsGeeky&theme=2077">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danfusami01&theme=2077">
      </td>
    </tr>
 </table><table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamsGeeky&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdamsGeeky&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danfusami01&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danfusami01&theme=aura_dark"></td>
   </tr>
 </table>
  -->
@@ -64,20 +63,3 @@
 
 ## 🎯 Profile Hits Counter
 ![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{AdamsGeeky}1212%2Fhit-counter)
-
-
-Hi there 👋
-
-Danfusami01/Danfusami01 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning web3 and trading
-- 👯 I’m looking to collaborate on impactible projects
-- 🤔 I’m looking to discuss about project
-- 💬 Ask me about web development,blockchain,web3 and trading
-- 📫 How to reach me: Saleemcrypto01
-- 😄 Pronouns: Saleeem
-- ⚡ Fun fact: drift 
-  
