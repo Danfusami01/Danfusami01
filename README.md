@@ -14,18 +14,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=danfusami01&theme=neon-palenight&hide_border=true&card_width=705">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Saleemcrypto01&theme=neon-palenight&hide_border=true&card_width=705">
      </td>
    </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danfusami01&theme=2077">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saleemcrypto01&theme=2077">
      </td>
    </tr>
 </table><table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danfusami01&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danfusami01&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saleemcrypto01&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saleemcrypto01&theme=aura_dark"></td>
   </tr>
 </table>
  -->
@@ -38,13 +38,13 @@
    </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danfusami01&theme=2077">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saleemcrypto01&theme=2077">
      </td>
    </tr>
 </table><table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danfusami01&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danfusami01&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saleemcrypto01&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saleemcrypto01&theme=aura_dark"></td>
   </tr>
 </table>
 
@@ -79,6 +79,6 @@
 
 
 ## 🎯 Profile Hits Counter
-![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Danfusami01}1212%2Fhit-counter)
+![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Saleemcrypto01}1212%2Fhit-counter)
 
 
